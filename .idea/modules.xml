@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/veterinaria.iml" filepath="$PROJECT_DIR$/.idea/veterinaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/veterinaria/veterinaria.iml" filepath="$PROJECT_DIR$/veterinaria/veterinaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/veterinaria2.iml" filepath="$PROJECT_DIR$/.idea/veterinaria2.iml" />
     </modules>
   </component>
 </project>
